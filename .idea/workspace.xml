@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49d8e342-874a-417c-978c-9132497e47b2" name="Changes" comment="Greedy 2 &amp; BufferReader and Scanner compare speed">
-      <change afterPath="$PROJECT_DIR$/src/Greedy/StreamExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="49d8e342-874a-417c-978c-9132497e47b2" name="Changes" comment="Stream Example">
+      <change beforePath="$PROJECT_DIR$/src/Greedy/TST3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Greedy/TST3_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +20,46 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="test" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/test" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -58,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672393839242</updated>
       <workItem from="1672393840681" duration="196000" />
-      <workItem from="1672394177488" duration="13053000" />
+      <workItem from="1672394177488" duration="13366000" />
     </task>
     <task id="LOCAL-00001" summary="Greedy Example">
       <created>1672396243005</created>
@@ -95,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672412506311</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Stream Example">
+      <created>1672418413542</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672418413542</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +162,7 @@
     <MESSAGE value="Greedy Example" />
     <MESSAGE value="initialize" />
     <MESSAGE value="Greedy 2 &amp; BufferReader and Scanner compare speed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Greedy 2 &amp; BufferReader and Scanner compare speed" />
+    <MESSAGE value="Stream Example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stream Example" />
   </component>
 </project>
