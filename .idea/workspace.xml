@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49d8e342-874a-417c-978c-9132497e47b2" name="Changes" comment="initialize">
-      <change afterPath="$PROJECT_DIR$/src/Greedy/TST3_2.java" afterDir="false" />
+    <list default="true" id="49d8e342-874a-417c-978c-9132497e47b2" name="Changes" comment="Greedy 2 &amp; BufferReader and Scanner compare speed">
+      <change afterPath="$PROJECT_DIR$/src/Greedy/StreamExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TST3_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Greedy/TST3_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -54,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672393839242</updated>
       <workItem from="1672393840681" duration="196000" />
-      <workItem from="1672394177488" duration="9949000" />
+      <workItem from="1672394177488" duration="13053000" />
     </task>
     <task id="LOCAL-00001" summary="Greedy Example">
       <created>1672396243005</created>
@@ -84,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672397170203</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Greedy 2 &amp; BufferReader and Scanner compare speed">
+      <created>1672412506311</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672412506311</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +115,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Greedy Example" />
     <MESSAGE value="initialize" />
-    <option name="LAST_COMMIT_MESSAGE" value="initialize" />
+    <MESSAGE value="Greedy 2 &amp; BufferReader and Scanner compare speed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Greedy 2 &amp; BufferReader and Scanner compare speed" />
   </component>
 </project>
