@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49d8e342-874a-417c-978c-9132497e47b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCodeTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TST3_1.java" afterDir="false" />
-    </list>
+    <list default="true" id="49d8e342-874a-417c-978c-9132497e47b2" name="Changes" comment="Greedy Example" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,8 +50,16 @@
       <option name="presentableId" value="Default" />
       <updated>1672393839242</updated>
       <workItem from="1672393840681" duration="196000" />
-      <workItem from="1672394177488" duration="1705000" />
+      <workItem from="1672394177488" duration="2110000" />
     </task>
+    <task id="LOCAL-00001" summary="Greedy Example">
+      <created>1672396243005</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672396243005</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,5 +75,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Greedy Example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Greedy Example" />
   </component>
 </project>
