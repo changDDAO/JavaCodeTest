@@ -1,4 +1,4 @@
-package Greedy;
+package SelfDevelopment;
 
 import java.util.Arrays;
 import java.util.List;
