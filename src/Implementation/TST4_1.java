@@ -23,6 +23,7 @@ public class TST4_1 {
                     nx=x+dx[j];
                     ny= y+dy[j];
                 }
+
             }
             if(nx<1||ny<1||nx>N||ny>N)
                 continue;
