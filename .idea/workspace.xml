@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49d8e342-874a-417c-978c-9132497e47b2" name="Changes" comment="Stream Example">
-      <change beforePath="$PROJECT_DIR$/src/Greedy/TST3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Greedy/TST3_2.java" afterDir="false" />
+    <list default="true" id="49d8e342-874a-417c-978c-9132497e47b2" name="Changes" comment="AdjacencyMatrix &amp; AdjacencyList">
+      <change afterPath="$PROJECT_DIR$/src/DFS_BFS/DFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +86,8 @@
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -97,7 +99,12 @@
       <option name="presentableId" value="Default" />
       <updated>1672393839242</updated>
       <workItem from="1672393840681" duration="196000" />
-      <workItem from="1672394177488" duration="13366000" />
+      <workItem from="1672394177488" duration="14255000" />
+      <workItem from="1672473233404" duration="118000" />
+      <workItem from="1672473364131" duration="9400000" />
+      <workItem from="1672639821922" duration="8145000" />
+      <workItem from="1672650379981" duration="7354000" />
+      <workItem from="1672670225807" duration="843000" />
     </task>
     <task id="LOCAL-00001" summary="Greedy Example">
       <created>1672396243005</created>
@@ -141,7 +148,105 @@
       <option name="project" value="LOCAL" />
       <updated>1672418413542</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="delete unnecessary comments">
+      <created>1672418742575</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1672418742575</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Self-development">
+      <created>1672473859420</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1672473859420</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Self-development HashTable">
+      <created>1672474140590</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1672474140590</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Self-development StreamExample">
+      <created>1672474156009</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1672474156009</updated>
+    </task>
+    <task id="LOCAL-00011" summary="hide important resource file">
+      <created>1672476777148</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1672476777148</updated>
+    </task>
+    <task id="LOCAL-00012" summary="EntrySet &amp; NavigableMap">
+      <created>1672478866313</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1672478866313</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Number card game compare with BufferReader &amp; Scanner">
+      <created>1672487202781</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1672487202781</updated>
+    </task>
+    <task id="LOCAL-00014" summary="re solve Problem Implementation">
+      <created>1672641017923</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1672641017923</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Implementation Problem practice 2">
+      <created>1672645321526</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1672645321526</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Java use Stack class">
+      <created>1672646744593</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1672646744593</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Java use Queue class">
+      <created>1672647359746</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1672647359746</updated>
+    </task>
+    <task id="LOCAL-00018" summary="recursive set End condition">
+      <created>1672651261232</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1672651261232</updated>
+    </task>
+    <task id="LOCAL-00019" summary="recursive &amp; iterator compare speed">
+      <created>1672652743733</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1672652743733</updated>
+    </task>
+    <task id="LOCAL-00020" summary="AdjacencyMatrix &amp; AdjacencyList">
+      <created>1672664191071</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1672664191071</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +268,20 @@
     <MESSAGE value="initialize" />
     <MESSAGE value="Greedy 2 &amp; BufferReader and Scanner compare speed" />
     <MESSAGE value="Stream Example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stream Example" />
+    <MESSAGE value="delete unnecessary comments" />
+    <MESSAGE value="Self-development" />
+    <MESSAGE value="Self-development HashTable" />
+    <MESSAGE value="Self-development StreamExample" />
+    <MESSAGE value="hide important resource file" />
+    <MESSAGE value="EntrySet &amp; NavigableMap" />
+    <MESSAGE value="Number card game compare with BufferReader &amp; Scanner" />
+    <MESSAGE value="re solve Problem Implementation" />
+    <MESSAGE value="Implementation Problem practice 2" />
+    <MESSAGE value="Java use Stack class" />
+    <MESSAGE value="Java use Queue class" />
+    <MESSAGE value="recursive set End condition" />
+    <MESSAGE value="recursive &amp; iterator compare speed" />
+    <MESSAGE value="AdjacencyMatrix &amp; AdjacencyList" />
+    <option name="LAST_COMMIT_MESSAGE" value="AdjacencyMatrix &amp; AdjacencyList" />
   </component>
 </project>
