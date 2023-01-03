@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49d8e342-874a-417c-978c-9132497e47b2" name="Changes" comment="AdjacencyMatrix &amp; AdjacencyList">
-      <change afterPath="$PROJECT_DIR$/src/DFS_BFS/DFS.java" afterDir="false" />
+    <list default="true" id="49d8e342-874a-417c-978c-9132497e47b2" name="Changes" comment="solve BFS problem">
+      <change afterPath="$PROJECT_DIR$/src/DFS_BFS/Temp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,6 +87,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
@@ -104,7 +105,9 @@
       <workItem from="1672473364131" duration="9400000" />
       <workItem from="1672639821922" duration="8145000" />
       <workItem from="1672650379981" duration="7354000" />
-      <workItem from="1672670225807" duration="843000" />
+      <workItem from="1672670225807" duration="3961000" />
+      <workItem from="1672732702068" duration="11654000" />
+      <workItem from="1672754005349" duration="3284000" />
     </task>
     <task id="LOCAL-00001" summary="Greedy Example">
       <created>1672396243005</created>
@@ -246,7 +249,35 @@
       <option name="project" value="LOCAL" />
       <updated>1672664191071</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="define DFS">
+      <created>1672671269417</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1672671269417</updated>
+    </task>
+    <task id="LOCAL-00022" summary="define DFS &amp; BFS">
+      <created>1672674412975</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1672674412975</updated>
+    </task>
+    <task id="LOCAL-00023" summary="solve with dfs">
+      <created>1672740463796</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1672740463796</updated>
+    </task>
+    <task id="LOCAL-00024" summary="solve BFS problem">
+      <created>1672753973768</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1672753973768</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,6 +313,20 @@
     <MESSAGE value="recursive set End condition" />
     <MESSAGE value="recursive &amp; iterator compare speed" />
     <MESSAGE value="AdjacencyMatrix &amp; AdjacencyList" />
-    <option name="LAST_COMMIT_MESSAGE" value="AdjacencyMatrix &amp; AdjacencyList" />
+    <MESSAGE value="define DFS" />
+    <MESSAGE value="define DFS &amp; BFS" />
+    <MESSAGE value="solve with dfs" />
+    <MESSAGE value="solve BFS problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve BFS problem" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
