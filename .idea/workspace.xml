@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="49d8e342-874a-417c-978c-9132497e47b2" name="Changes" comment="solve BFS problem">
-      <change afterPath="$PROJECT_DIR$/src/DFS_BFS/Temp.java" afterDir="false" />
+    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="QuickSort implementation">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sort/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,267 +19,40 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <excluded-from-favorite>
-      <branch-storage>
-        <map>
-          <entry type="LOCAL">
-            <value>
-              <list>
-                <branch-info repo="$PROJECT_DIR$" source="master" />
-              </list>
-            </value>
-          </entry>
-          <entry type="REMOTE">
-            <value>
-              <list>
-                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
-              </list>
-            </value>
-          </entry>
-        </map>
-      </branch-storage>
-    </excluded-from-favorite>
-    <favorite-branches>
-      <branch-storage>
-        <map>
-          <entry type="LOCAL">
-            <value>
-              <list>
-                <branch-info repo="$PROJECT_DIR$" source="test" />
-              </list>
-            </value>
-          </entry>
-          <entry type="REMOTE">
-            <value>
-              <list>
-                <branch-info repo="$PROJECT_DIR$" source="origin/test" />
-              </list>
-            </value>
-          </entry>
-        </map>
-      </branch-storage>
-    </favorite-branches>
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2Jd2rAyF4kbYwsIZTvhbxswL3Cu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/younc/IdeaProjects/JavaCodeTest&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
-  }
-}</component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="49d8e342-874a-417c-978c-9132497e47b2" name="Changes" comment="" />
-      <created>1672393839242</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1672393839242</updated>
-      <workItem from="1672393840681" duration="196000" />
-      <workItem from="1672394177488" duration="14255000" />
-      <workItem from="1672473233404" duration="118000" />
-      <workItem from="1672473364131" duration="9400000" />
-      <workItem from="1672639821922" duration="8145000" />
-      <workItem from="1672650379981" duration="7354000" />
-      <workItem from="1672670225807" duration="3961000" />
-      <workItem from="1672732702068" duration="11654000" />
-      <workItem from="1672754005349" duration="3284000" />
-    </task>
-    <task id="LOCAL-00001" summary="Greedy Example">
-      <created>1672396243005</created>
+    <task id="LOCAL-00001" summary="SelectionSort Test">
+      <created>1672988748988</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1672396243005</updated>
+      <updated>1672988748988</updated>
     </task>
-    <task id="LOCAL-00002" summary="Greedy Example">
-      <created>1672396560072</created>
+    <task id="LOCAL-00002" summary="Insertion Sort implementation">
+      <created>1672991664838</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1672396560072</updated>
+      <updated>1672991664838</updated>
     </task>
-    <task id="LOCAL-00003" summary="initialize">
-      <created>1672397140082</created>
+    <task id="LOCAL-00003" summary="Insertion Sort implementation">
+      <created>1672991824961</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1672397140082</updated>
+      <updated>1672991824961</updated>
     </task>
-    <task id="LOCAL-00004" summary="initialize">
-      <created>1672397170203</created>
+    <task id="LOCAL-00004" summary="QuickSort implementation">
+      <created>1673005860882</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1672397170203</updated>
+      <updated>1673005860882</updated>
     </task>
-    <task id="LOCAL-00005" summary="Greedy 2 &amp; BufferReader and Scanner compare speed">
-      <created>1672412506311</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1672412506311</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Stream Example">
-      <created>1672418413542</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1672418413542</updated>
-    </task>
-    <task id="LOCAL-00007" summary="delete unnecessary comments">
-      <created>1672418742575</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1672418742575</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Self-development">
-      <created>1672473859420</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1672473859420</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Self-development HashTable">
-      <created>1672474140590</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1672474140590</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Self-development StreamExample">
-      <created>1672474156009</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1672474156009</updated>
-    </task>
-    <task id="LOCAL-00011" summary="hide important resource file">
-      <created>1672476777148</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1672476777148</updated>
-    </task>
-    <task id="LOCAL-00012" summary="EntrySet &amp; NavigableMap">
-      <created>1672478866313</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1672478866313</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Number card game compare with BufferReader &amp; Scanner">
-      <created>1672487202781</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1672487202781</updated>
-    </task>
-    <task id="LOCAL-00014" summary="re solve Problem Implementation">
-      <created>1672641017923</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1672641017923</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Implementation Problem practice 2">
-      <created>1672645321526</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1672645321526</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Java use Stack class">
-      <created>1672646744593</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1672646744593</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Java use Queue class">
-      <created>1672647359746</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1672647359746</updated>
-    </task>
-    <task id="LOCAL-00018" summary="recursive set End condition">
-      <created>1672651261232</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1672651261232</updated>
-    </task>
-    <task id="LOCAL-00019" summary="recursive &amp; iterator compare speed">
-      <created>1672652743733</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1672652743733</updated>
-    </task>
-    <task id="LOCAL-00020" summary="AdjacencyMatrix &amp; AdjacencyList">
-      <created>1672664191071</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1672664191071</updated>
-    </task>
-    <task id="LOCAL-00021" summary="define DFS">
-      <created>1672671269417</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1672671269417</updated>
-    </task>
-    <task id="LOCAL-00022" summary="define DFS &amp; BFS">
-      <created>1672674412975</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1672674412975</updated>
-    </task>
-    <task id="LOCAL-00023" summary="solve with dfs">
-      <created>1672740463796</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1672740463796</updated>
-    </task>
-    <task id="LOCAL-00024" summary="solve BFS problem">
-      <created>1672753973768</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1672753973768</updated>
-    </task>
-    <option name="localTasksCounter" value="25" />
+    <option name="localTasksCounter" value="5" />
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -295,38 +66,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Greedy Example" />
-    <MESSAGE value="initialize" />
-    <MESSAGE value="Greedy 2 &amp; BufferReader and Scanner compare speed" />
-    <MESSAGE value="Stream Example" />
-    <MESSAGE value="delete unnecessary comments" />
-    <MESSAGE value="Self-development" />
-    <MESSAGE value="Self-development HashTable" />
-    <MESSAGE value="Self-development StreamExample" />
-    <MESSAGE value="hide important resource file" />
-    <MESSAGE value="EntrySet &amp; NavigableMap" />
-    <MESSAGE value="Number card game compare with BufferReader &amp; Scanner" />
-    <MESSAGE value="re solve Problem Implementation" />
-    <MESSAGE value="Implementation Problem practice 2" />
-    <MESSAGE value="Java use Stack class" />
-    <MESSAGE value="Java use Queue class" />
-    <MESSAGE value="recursive set End condition" />
-    <MESSAGE value="recursive &amp; iterator compare speed" />
-    <MESSAGE value="AdjacencyMatrix &amp; AdjacencyList" />
-    <MESSAGE value="define DFS" />
-    <MESSAGE value="define DFS &amp; BFS" />
-    <MESSAGE value="solve with dfs" />
-    <MESSAGE value="solve BFS problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="solve BFS problem" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
-          <option name="timeStamp" value="3" />
-        </breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="SelectionSort Test" />
+    <MESSAGE value="Insertion Sort implementation" />
+    <MESSAGE value="QuickSort implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="QuickSort implementation" />
   </component>
 </project>
