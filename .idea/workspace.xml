@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="CountingSort">
-      <change afterPath="$PROJECT_DIR$/src/Sort/ScoreComparable.java" afterDir="false" />
+    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="객체간의 특정 필드값 비교">
+      <change afterPath="$PROJECT_DIR$/src/Sort/Practice_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673011649664</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="객체간의 특정 필드값 비교">
+      <created>1673012644082</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673012644082</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,6 +90,7 @@
     <MESSAGE value="QuickSort implementation" />
     <MESSAGE value="QuickSort implementation Test" />
     <MESSAGE value="CountingSort" />
-    <option name="LAST_COMMIT_MESSAGE" value="CountingSort" />
+    <MESSAGE value="객체간의 특정 필드값 비교" />
+    <option name="LAST_COMMIT_MESSAGE" value="객체간의 특정 필드값 비교" />
   </component>
 </project>
