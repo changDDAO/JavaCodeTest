@@ -15,5 +15,8 @@ public class Practice_2 {
         Arrays.sort(arr, Collections.reverseOrder());
         Arrays.stream(arr)
                 .forEach(s-> System.out.print(s+" "));
+        for(Integer i:arr){
+            System.out.print(i);
+        }
     }
 }
