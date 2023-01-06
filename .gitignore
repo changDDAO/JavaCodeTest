@@ -3,6 +3,10 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 database.properties
+.idea
+*.imi
+
+
 
 ### Eclipse ###
 .apt_generated
