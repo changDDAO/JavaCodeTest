@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="Binary Search">
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch/BinarySearch_for.java" afterDir="false" />
+    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="Self development use Stream &amp; Collections method">
+      <change afterPath="$PROJECT_DIR$/src/SelfDevelopment/JavaUsefulMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelfDevelopment/JavaVariousUsefulMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,14 +30,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "android.live.literals"
   }
-}</component>
-  <component name="RunManager" selected="Application.BinarySearch_for">
+}]]></component>
+  <component name="RunManager">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch.BinarySearch" />
       <module name="JavaCodeTest" />
@@ -64,8 +67,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BinarySearch_for" />
         <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.BinarySearch_for" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +144,12 @@
       <option name="presentableId" value="Default" />
       <updated>1673014970703</updated>
       <workItem from="1673014971110" duration="7000" />
-      <workItem from="1673075893201" duration="9402000" />
+      <workItem from="1673075893201" duration="13744000" />
+      <workItem from="1673160367634" duration="83000" />
+      <workItem from="1673179209969" duration="123000" />
+      <workItem from="1673179337146" duration="747000" />
+      <workItem from="1673248857354" duration="19003000" />
+      <workItem from="1673417761793" duration="4670000" />
     </task>
     <task id="LOCAL-00010" summary="practice 3 class 값비교 use Comparable">
       <created>1673077484256</created>
@@ -164,7 +172,84 @@
       <option name="project" value="LOCAL" />
       <updated>1673088449494</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Binary Search for문">
+      <created>1673089033070</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1673089033070</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Binary Search (recursive)">
+      <created>1673089186821</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1673089186821</updated>
+    </task>
+    <task id="LOCAL-00015" summary="부품찾기 practice2(Binary Search)">
+      <created>1673092452459</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1673092452459</updated>
+    </task>
+    <task id="LOCAL-00016" summary="부품찾기 practice2(counting sort)">
+      <created>1673094386282</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1673094386282</updated>
+    </task>
+    <task id="LOCAL-00017" summary="떡복이 떡 만들기 practice3(Binary Search)">
+      <created>1673252070850</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1673252070850</updated>
+    </task>
+    <task id="LOCAL-00018" summary="부품찾기 use HashSet">
+      <created>1673262581458</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1673262581458</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Fibonacci_Recursive (but this is not efficient code)">
+      <created>1673263807455</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1673263807455</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Fibonacci_Recursive improved version">
+      <created>1673266018747</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1673266018747</updated>
+    </task>
+    <task id="LOCAL-00021" summary="dynamic Programming(bottom up) use DP table">
+      <created>1673272316402</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1673272316402</updated>
+    </task>
+    <task id="LOCAL-00022" summary="AntWarrior_Practice3(bottom up) use DP table">
+      <created>1673276366979</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1673276366979</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Self development use Stream &amp; Collections method">
+      <created>1673278146206</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1673278146206</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,7 +277,18 @@
     <MESSAGE value="practice 3 class 값비교 use Comparable" />
     <MESSAGE value="Sequential Search" />
     <MESSAGE value="Binary Search" />
-    <option name="LAST_COMMIT_MESSAGE" value="Binary Search" />
+    <MESSAGE value="Binary Search for문" />
+    <MESSAGE value="Binary Search (recursive)" />
+    <MESSAGE value="부품찾기 practice2(Binary Search)" />
+    <MESSAGE value="부품찾기 practice2(counting sort)" />
+    <MESSAGE value="떡복이 떡 만들기 practice3(Binary Search)" />
+    <MESSAGE value="부품찾기 use HashSet" />
+    <MESSAGE value="Fibonacci_Recursive (but this is not efficient code)" />
+    <MESSAGE value="Fibonacci_Recursive improved version" />
+    <MESSAGE value="dynamic Programming(bottom up) use DP table" />
+    <MESSAGE value="AntWarrior_Practice3(bottom up) use DP table" />
+    <MESSAGE value="Self development use Stream &amp; Collections method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Self development use Stream &amp; Collections method" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
