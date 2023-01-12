@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-public class Practice5_MySolution {
+public class Practice5_MySolution2 {
     //값의 설정이 불가능한 값 초기화
     public static int impossibleValue = 10001;
 
@@ -22,23 +22,23 @@ public class Practice5_MySolution {
         for (int i = 0; i < moneyUnit.length; i++) {
             moneyUnit[i] = Integer.parseInt(br.readLine());
         }
-        //dpTable 초기화하기
-        int[] dpTable = new int[m + 1];
-        Arrays.fill(dpTable, impossibleValue);
+        int []dpTable = new int[m+1];
+        Arrays.fill(dpTable,impossibleValue); //initialize 초기 dpTable
 
-        //입력된 화폐단위를 탐색하면서 초기화 해주기
-        dpTable[0] = 0;
-        for (int i = 0; i < n; i++) {
-            for (int j = moneyUnit[i]; j <= m; j++) {
-                if (dpTable[j - moneyUnit[i]] != impossibleValue)
-                    dpTable[j] = Math.min(dpTable[j], dpTable[j - moneyUnit[i]] + 1);
+        //1.화폐단위 작은값부터 큰값으로 변경해가면서 dpTable 초기화 해주기
+        //2.목표로 하는 m값을 작은화폐부터 구성해두고 화폐단위를 키워가면서
+        //3.dpTable을 초기화 했을 때 비로소 우리는 화폐구성의 최솟값을 찾을수 있다!
+        dpTable[0]=0;
+        for (int i=0;i<n;i++){
+            for(int j=moneyUnit[i];j<=m;j++){
+                if(dpTable[j-moneyUnit[i]]!=impossibleValue)
+                    dpTable[j]=Math.min(dpTable[j],dpTable[j-moneyUnit[i]]+1);
             }
         }
-        int answer = dpTable[m];
-        if (answer == impossibleValue)
+        if(dpTable[m]==impossibleValue)
             System.out.println(-1);
-        else System.out.println(answer);
-
+        else
+            System.out.println(dpTable[m]);
 
     }
 }
