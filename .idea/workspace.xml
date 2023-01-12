@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="Self development PriorityQueue &amp; Arrays Method &amp; String Method">
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/Practice5_ConsistOfEfficientMoney.java" afterDir="false" />
+    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="Dynamic Programming">
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/Practice5_MySolution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,7 +149,7 @@
       <workItem from="1673179337146" duration="747000" />
       <workItem from="1673248857354" duration="19003000" />
       <workItem from="1673417761793" duration="4906000" />
-      <workItem from="1673515453475" duration="2481000" />
+      <workItem from="1673515453475" duration="5745000" />
     </task>
     <task id="LOCAL-00010" summary="practice 3 class 값비교 use Comparable">
       <created>1673077484256</created>
@@ -256,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673423391665</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Dynamic Programming">
+      <created>1673520252117</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1673520252117</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,7 +303,8 @@
     <MESSAGE value="AntWarrior_Practice3(bottom up) use DP table" />
     <MESSAGE value="Self development use Stream &amp; Collections method" />
     <MESSAGE value="Self development PriorityQueue &amp; Arrays Method &amp; String Method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Self development PriorityQueue &amp; Arrays Method &amp; String Method" />
+    <MESSAGE value="Dynamic Programming" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dynamic Programming" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
