@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="FloydWarshallAlgorithm">
-      <change afterPath="$PROJECT_DIR$/src/GraphTheory/DisjointSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/GraphTheory/DetectCycle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -296,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673607868282</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="DisjointSet">
+      <created>1673623353954</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1673623353954</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,7 +320,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="QuickSort implementation" />
     <MESSAGE value="QuickSort implementation Test" />
     <MESSAGE value="CountingSort" />
     <MESSAGE value="객체간의 특정 필드값 비교" />
@@ -339,7 +344,8 @@
     <MESSAGE value="Dynamic Programming Practice5 &#10;Efficient consist of money second solve" />
     <MESSAGE value="improved Dijkstra Algorithm" />
     <MESSAGE value="FloydWarshallAlgorithm" />
-    <option name="LAST_COMMIT_MESSAGE" value="FloydWarshallAlgorithm" />
+    <MESSAGE value="DisjointSet" />
+    <option name="LAST_COMMIT_MESSAGE" value="DisjointSet" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
