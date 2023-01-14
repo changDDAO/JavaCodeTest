@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GraphTheory/DetectCycle.java" afterDir="false" />
+    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="greedy problem Q1">
+      <change afterPath="$PROJECT_DIR$/src/GreedyProblem/Q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,15 +32,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch.BinarySearch" />
@@ -154,6 +155,7 @@
       <workItem from="1673417761793" duration="4906000" />
       <workItem from="1673515453475" duration="12452000" />
       <workItem from="1673590004156" duration="11571000" />
+      <workItem from="1673699184663" duration="4064000" />
     </task>
     <task id="LOCAL-00010" summary="practice 3 class 값비교 use Comparable">
       <created>1673077484256</created>
@@ -302,7 +304,35 @@
       <option name="project" value="LOCAL" />
       <updated>1673623353954</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="KruskalAlgorithm">
+      <created>1673684808034</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1673684808034</updated>
+    </task>
+    <task id="LOCAL-00032" summary="TopologySort">
+      <created>1673692499722</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1673692499722</updated>
+    </task>
+    <task id="LOCAL-00033" summary="use disjoint solve Problem">
+      <created>1673696807135</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1673696807135</updated>
+    </task>
+    <task id="LOCAL-00034" summary="greedy problem Q1">
+      <created>1673701306223</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1673701306223</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -320,10 +350,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="QuickSort implementation Test" />
-    <MESSAGE value="CountingSort" />
-    <MESSAGE value="객체간의 특정 필드값 비교" />
-    <MESSAGE value="java 자체 라이브러리를 이용해 역순 정렬하기." />
     <MESSAGE value="practice 3 class 값비교 use Comparable" />
     <MESSAGE value="Sequential Search" />
     <MESSAGE value="Binary Search" />
@@ -345,7 +371,11 @@
     <MESSAGE value="improved Dijkstra Algorithm" />
     <MESSAGE value="FloydWarshallAlgorithm" />
     <MESSAGE value="DisjointSet" />
-    <option name="LAST_COMMIT_MESSAGE" value="DisjointSet" />
+    <MESSAGE value="KruskalAlgorithm" />
+    <MESSAGE value="TopologySort" />
+    <MESSAGE value="use disjoint solve Problem" />
+    <MESSAGE value="greedy problem Q1" />
+    <option name="LAST_COMMIT_MESSAGE" value="greedy problem Q1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -354,6 +384,11 @@
           <url>file://$PROJECT_DIR$/src/BinarySearch/BinarySearch.java</url>
           <line>29</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GraphTheory/Practice2_TeamFormation.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
