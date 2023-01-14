@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GraphTheory/KruskalAlgorithm.java" afterDir="false" />
+    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="KruskalAlgorithm">
+      <change afterPath="$PROJECT_DIR$/src/GraphTheory/TopologySort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -303,7 +303,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673623353954</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="KruskalAlgorithm">
+      <created>1673684808034</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1673684808034</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,7 +328,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="QuickSort implementation Test" />
     <MESSAGE value="CountingSort" />
     <MESSAGE value="객체간의 특정 필드값 비교" />
     <MESSAGE value="java 자체 라이브러리를 이용해 역순 정렬하기." />
@@ -346,7 +352,8 @@
     <MESSAGE value="improved Dijkstra Algorithm" />
     <MESSAGE value="FloydWarshallAlgorithm" />
     <MESSAGE value="DisjointSet" />
-    <option name="LAST_COMMIT_MESSAGE" value="DisjointSet" />
+    <MESSAGE value="KruskalAlgorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="KruskalAlgorithm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
