@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="solve greedy problem Q4">
-      <change afterPath="$PROJECT_DIR$/src/GreedyProblem/Q5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="solve greedy problem Q5">
+      <change beforePath="$PROJECT_DIR$/src/GreedyProblem/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GreedyProblem/Q5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +155,7 @@
       <workItem from="1673515453475" duration="12452000" />
       <workItem from="1673590004156" duration="11571000" />
       <workItem from="1673699184663" duration="4064000" />
-      <workItem from="1673777637696" duration="14990000" />
+      <workItem from="1673777637696" duration="15461000" />
     </task>
     <task id="LOCAL-00010" summary="practice 3 class 값비교 use Comparable">
       <created>1673077484256</created>
@@ -361,7 +360,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673797301983</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="solve greedy problem Q5">
+      <created>1673799835553</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1673799835553</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -379,7 +385,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Binary Search (recursive)" />
     <MESSAGE value="부품찾기 practice2(Binary Search)" />
     <MESSAGE value="부품찾기 practice2(counting sort)" />
     <MESSAGE value="떡복이 떡 만들기 practice3(Binary Search)" />
@@ -404,7 +409,8 @@
     <MESSAGE value="use dfs change parenthesis&#10;Q18 review" />
     <MESSAGE value="solve greedy problem Q2" />
     <MESSAGE value="solve greedy problem Q4" />
-    <option name="LAST_COMMIT_MESSAGE" value="solve greedy problem Q4" />
+    <MESSAGE value="solve greedy problem Q5" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve greedy problem Q5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -421,7 +427,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/GreedyProblem/Q5.java</url>
-          <line>44</line>
+          <line>46</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
