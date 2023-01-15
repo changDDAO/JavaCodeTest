@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="use dfs change parenthesis&#10;Q18">
-      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="solve greedy problem Q5">
+      <change beforePath="$PROJECT_DIR$/src/GreedyProblem/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GreedyProblem/Q5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BinarySearch">
+  <component name="RunManager">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch.BinarySearch" />
       <module name="JavaCodeTest" />
@@ -156,7 +155,7 @@
       <workItem from="1673515453475" duration="12452000" />
       <workItem from="1673590004156" duration="11571000" />
       <workItem from="1673699184663" duration="4064000" />
-      <workItem from="1673777637696" duration="7931000" />
+      <workItem from="1673777637696" duration="15461000" />
     </task>
     <task id="LOCAL-00010" summary="practice 3 class 값비교 use Comparable">
       <created>1673077484256</created>
@@ -340,7 +339,35 @@
       <option name="project" value="LOCAL" />
       <updated>1673787244169</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="use dfs change parenthesis&#10;Q18 review">
+      <created>1673792151581</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1673792151581</updated>
+    </task>
+    <task id="LOCAL-00037" summary="solve greedy problem Q2">
+      <created>1673794635257</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1673794635257</updated>
+    </task>
+    <task id="LOCAL-00038" summary="solve greedy problem Q4">
+      <created>1673797301983</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1673797301983</updated>
+    </task>
+    <task id="LOCAL-00039" summary="solve greedy problem Q5">
+      <created>1673799835553</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1673799835553</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -358,10 +385,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sequential Search" />
-    <MESSAGE value="Binary Search" />
-    <MESSAGE value="Binary Search for문" />
-    <MESSAGE value="Binary Search (recursive)" />
     <MESSAGE value="부품찾기 practice2(Binary Search)" />
     <MESSAGE value="부품찾기 practice2(counting sort)" />
     <MESSAGE value="떡복이 떡 만들기 practice3(Binary Search)" />
@@ -383,7 +406,11 @@
     <MESSAGE value="use disjoint solve Problem" />
     <MESSAGE value="greedy problem Q1" />
     <MESSAGE value="use dfs change parenthesis&#10;Q18" />
-    <option name="LAST_COMMIT_MESSAGE" value="use dfs change parenthesis&#10;Q18" />
+    <MESSAGE value="use dfs change parenthesis&#10;Q18 review" />
+    <MESSAGE value="solve greedy problem Q2" />
+    <MESSAGE value="solve greedy problem Q4" />
+    <MESSAGE value="solve greedy problem Q5" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve greedy problem Q5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -397,6 +424,11 @@
           <url>file://$PROJECT_DIR$/src/GraphTheory/Practice2_TeamFormation.java</url>
           <line>37</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GreedyProblem/Q5.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
