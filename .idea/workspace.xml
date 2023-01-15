@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="use dfs change parenthesis&#10;Q18 review">
-      <change afterPath="$PROJECT_DIR$/src/GreedyProblem/Q2.java" afterDir="false" />
+    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="solve greedy problem Q2">
+      <change afterPath="$PROJECT_DIR$/src/GreedyProblem/Q4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -156,7 +156,7 @@
       <workItem from="1673515453475" duration="12452000" />
       <workItem from="1673590004156" duration="11571000" />
       <workItem from="1673699184663" duration="4064000" />
-      <workItem from="1673777637696" duration="10035000" />
+      <workItem from="1673777637696" duration="12633000" />
     </task>
     <task id="LOCAL-00010" summary="practice 3 class 값비교 use Comparable">
       <created>1673077484256</created>
@@ -347,7 +347,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673792151581</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="solve greedy problem Q2">
+      <created>1673794635257</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1673794635257</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -365,7 +372,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Binary Search" />
     <MESSAGE value="Binary Search for문" />
     <MESSAGE value="Binary Search (recursive)" />
     <MESSAGE value="부품찾기 practice2(Binary Search)" />
@@ -390,7 +396,8 @@
     <MESSAGE value="greedy problem Q1" />
     <MESSAGE value="use dfs change parenthesis&#10;Q18" />
     <MESSAGE value="use dfs change parenthesis&#10;Q18 review" />
-    <option name="LAST_COMMIT_MESSAGE" value="use dfs change parenthesis&#10;Q18 review" />
+    <MESSAGE value="solve greedy problem Q2" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve greedy problem Q2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
