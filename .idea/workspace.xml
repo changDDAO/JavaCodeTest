@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="solve Q6">
-      <change afterPath="$PROJECT_DIR$/src/ImplementationProblem/Q7.java" afterDir="false" />
+    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="solve Q7 implementation">
+      <change afterPath="$PROJECT_DIR$/src/MuzyMukkBang.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GreedyProblem/Q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GreedyProblem/Q6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +158,7 @@
       <workItem from="1673699184663" duration="4064000" />
       <workItem from="1673777637696" duration="15461000" />
       <workItem from="1673938438148" duration="5752000" />
-      <workItem from="1673959992391" duration="1354000" />
+      <workItem from="1673959992391" duration="4543000" />
     </task>
     <task id="LOCAL-00010" summary="practice 3 class 값비교 use Comparable">
       <created>1673077484256</created>
@@ -385,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673949196448</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="solve Q7 implementation">
+      <created>1673961610984</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1673961610984</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -403,7 +409,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="떡복이 떡 만들기 practice3(Binary Search)" />
     <MESSAGE value="부품찾기 use HashSet" />
     <MESSAGE value="Fibonacci_Recursive (but this is not efficient code)" />
     <MESSAGE value="Fibonacci_Recursive improved version" />
@@ -428,7 +433,8 @@
     <MESSAGE value="solve greedy problem Q5" />
     <MESSAGE value="solve greedy problem Q5 reference" />
     <MESSAGE value="solve Q6" />
-    <option name="LAST_COMMIT_MESSAGE" value="solve Q6" />
+    <MESSAGE value="solve Q7 implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve Q7 implementation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
