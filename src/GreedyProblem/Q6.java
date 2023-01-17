@@ -48,6 +48,7 @@ class Q6 {
                     k %= n;
                     foods.subList(i,food_times.length).sort(CompIdx);
                     return foods.get(i+(int)k).idx;
+
                 }
             }
             i++;
