@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="solve greedy problem Q5">
-      <change beforePath="$PROJECT_DIR$/src/GreedyProblem/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GreedyProblem/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreedyProblem/Q5another.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,6 +157,7 @@
       <workItem from="1673590004156" duration="11571000" />
       <workItem from="1673699184663" duration="4064000" />
       <workItem from="1673777637696" duration="15461000" />
+      <workItem from="1673938438148" duration="1055000" />
     </task>
     <task id="LOCAL-00010" summary="practice 3 class 값비교 use Comparable">
       <created>1673077484256</created>
