@@ -1,36 +1,43 @@
 import java.util.*;
 class Solution{
     public int solution(String s){
-        int answer = s.length();
-        //step 1부터 반까지 늘려가기(문자열의 갯수)
-        for(int step =1; step<s.length()/2+1;step++) {
-            String compressed = "";
-            String prev = s.substring(0, step);//앞에서 부터 step크기만큼 문자열 추출
-            int cnt = 1;
-            //단위 크기만큼 증가시키며 이전 문자열과 비교
-            for(int j = step; j<s.length();j+=step){
-                String sub ="";
-                for(int k=j;k<j+step;k++){
+        //1.문자열 단위별로 쪼개서 비교하기
+        //2.단위별 비교후 문자가 같다면 cnt 증가시킨후 붙이기
+        //3.단위별로 압축한 문자열 비교하여 최솟값 출력하기
+        int answer = s.length();//계속 줄여나갈 대상
+        StringBuilder compressed = new StringBuilder();
+        StringBuilder temp = new StringBuilder();
+        int cnt =1;
+        for(int i = 1; i<s.length()/2+1;i++){//i는 단위
+            compressed.setLength(0);
+            String prev = s.substring(0,i);
+            for(int j= i; j<s.length();j+=i){
+                temp.setLength(0);
+                for(int k=j;k<j+i;k++){
                     if(k<s.length())
-                        sub+=s.charAt(k);
+                    temp.append(s.charAt(k));
                 }
-                if(prev.equals(sub)) cnt+=1;
+                if(prev.equals(temp.toString()))
+                    cnt++;
                 else{
-                    compressed+=(cnt>=2)?cnt+prev:prev;
-                    sub="";
-                    for (int k = j; k < j + step; k++) {
-                        if(k<s.length())
-                            sub+=s.charAt(k);
+                    //반복된 문자열이 2회 이상인것이 앞에 있다면
+                    if(cnt>=2) compressed.append(cnt).append(prev);
+                    else compressed.append(prev);
+                    temp.setLength(0);
+                    for(int k=j;k<j+i;k++){
+                        if(k<s.length()) temp.append(s.charAt(k));
                     }
-                     prev = sub;
+                    prev = temp.toString();
                     cnt=1;
                 }
+
             }
-            compressed+=(cnt>=2)?cnt+prev:prev;
-            answer = Math.min(answer,compressed.length());
+            if(cnt>=2) compressed.append(cnt).append(prev);
+            else compressed.append(prev);
+
+            answer = Math.min(answer, compressed.length());
 
         }
         return answer;
-
     }
 }
