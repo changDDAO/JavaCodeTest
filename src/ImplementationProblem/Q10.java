@@ -21,7 +21,7 @@ public class Q10 {
                 else{
                     compressedString+=(cnt>2)?cnt+prev:prev;
                     temp="";
-                    for(int j=i;j<i;j++){
+                    for(int j=i;j<i+charCnt;j++){
                         if(j<s.length()) temp+=s.charAt(j);
                     }
                     cnt=1;//초기화
