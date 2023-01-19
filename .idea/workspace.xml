@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="implementation Q10">
+    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="implementation Q10&#10;testcase 27번틀림 이유x">
+      <change afterPath="$PROJECT_DIR$/src/DFS_BFS_Problem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +159,7 @@
       <workItem from="1673777637696" duration="15461000" />
       <workItem from="1673938438148" duration="5752000" />
       <workItem from="1673959992391" duration="6968000" />
-      <workItem from="1674119137048" duration="14051000" />
+      <workItem from="1674119137048" duration="21986000" />
     </task>
     <task id="LOCAL-00010" summary="practice 3 class 값비교 use Comparable">
       <created>1673077484256</created>
@@ -427,7 +427,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674124885697</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="implementation Q10">
+      <created>1674136607017</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1674136607017</updated>
+    </task>
+    <task id="LOCAL-00049" summary="implementation Q10&#10;testcase 27번틀림 이유x">
+      <created>1674141201485</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1674141201485</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -445,7 +459,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="dynamic Programming(bottom up) use DP table" />
     <MESSAGE value="AntWarrior_Practice3(bottom up) use DP table" />
     <MESSAGE value="Self development use Stream &amp; Collections method" />
     <MESSAGE value="Self development PriorityQueue &amp; Arrays Method &amp; String Method" />
@@ -470,7 +483,8 @@
     <MESSAGE value="resolve muzzyMukBang" />
     <MESSAGE value="implementation Q8" />
     <MESSAGE value="implementation Q10" />
-    <option name="LAST_COMMIT_MESSAGE" value="implementation Q10" />
+    <MESSAGE value="implementation Q10&#10;testcase 27번틀림 이유x" />
+    <option name="LAST_COMMIT_MESSAGE" value="implementation Q10&#10;testcase 27번틀림 이유x" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
