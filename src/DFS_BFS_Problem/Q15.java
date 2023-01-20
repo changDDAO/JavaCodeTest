@@ -1,3 +1,5 @@
+package DFS_BFS_Problem;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -6,7 +8,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class DFS_BFS_Problem {
+public class Q15 {
     //도시의 개수 n , 도로의 개수 m, 거리정보 k, 출발도시 x, 출발도시는 0
     public static int n, m, k, x;
     //모든 도시에 대한 최단거리

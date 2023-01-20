@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="implementation Q10&#10;testcase 27번틀림 이유x">
-      <change afterPath="$PROJECT_DIR$/src/DFS_BFS_Problem.java" afterDir="false" />
+    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="use bfs solve Q15">
+      <change afterPath="$PROJECT_DIR$/src/SortingProblem/Q24.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DFS_BFS_Problem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFS_BFS_Problem/Q15.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,13 +78,6 @@
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task id="LOCAL-00001" summary="SelectionSort Test">
-      <created>1672988748988</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1672988748988</updated>
-    </task>
     <task id="LOCAL-00002" summary="Insertion Sort implementation">
       <created>1672991664838</created>
       <option name="number" value="00002" />
@@ -159,7 +153,8 @@
       <workItem from="1673777637696" duration="15461000" />
       <workItem from="1673938438148" duration="5752000" />
       <workItem from="1673959992391" duration="6968000" />
-      <workItem from="1674119137048" duration="21986000" />
+      <workItem from="1674119137048" duration="22023000" />
+      <workItem from="1674205783666" duration="2195000" />
     </task>
     <task id="LOCAL-00010" summary="practice 3 class 값비교 use Comparable">
       <created>1673077484256</created>
@@ -441,7 +436,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674141201485</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="use bfs solve Q15">
+      <created>1674145733181</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1674145733181</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -459,7 +461,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="AntWarrior_Practice3(bottom up) use DP table" />
     <MESSAGE value="Self development use Stream &amp; Collections method" />
     <MESSAGE value="Self development PriorityQueue &amp; Arrays Method &amp; String Method" />
     <MESSAGE value="Dynamic Programming" />
@@ -484,7 +485,8 @@
     <MESSAGE value="implementation Q8" />
     <MESSAGE value="implementation Q10" />
     <MESSAGE value="implementation Q10&#10;testcase 27번틀림 이유x" />
-    <option name="LAST_COMMIT_MESSAGE" value="implementation Q10&#10;testcase 27번틀림 이유x" />
+    <MESSAGE value="use bfs solve Q15" />
+    <option name="LAST_COMMIT_MESSAGE" value="use bfs solve Q15" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
