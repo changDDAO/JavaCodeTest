@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="solve sort problem Q24">
-      <change afterPath="$PROJECT_DIR$/src/SortingProblem/Q23.java" afterDir="false" />
+    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/SelfDevelopment/JavaUsefulThings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,15 +32,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch.BinarySearch" />
@@ -77,6 +80,20 @@
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="SelectionSort Test">
+      <created>1672988748988</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672988748988</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Insertion Sort implementation">
+      <created>1672991664838</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672991664838</updated>
+    </task>
     <task id="LOCAL-00003" summary="Insertion Sort implementation">
       <created>1672991824961</created>
       <option name="number" value="00003" />
@@ -141,12 +158,6 @@
       <workItem from="1673417761793" duration="4906000" />
       <workItem from="1673515453475" duration="12452000" />
       <workItem from="1673590004156" duration="11571000" />
-      <workItem from="1673699184663" duration="4064000" />
-      <workItem from="1673777637696" duration="15461000" />
-      <workItem from="1673938438148" duration="5752000" />
-      <workItem from="1673959992391" duration="6968000" />
-      <workItem from="1674119137048" duration="22023000" />
-      <workItem from="1674205783666" duration="5154000" />
     </task>
     <task id="LOCAL-00010" summary="practice 3 class 값비교 use Comparable">
       <created>1673077484256</created>
@@ -295,154 +306,7 @@
       <option name="project" value="LOCAL" />
       <updated>1673623353954</updated>
     </task>
-    <task id="LOCAL-00031" summary="KruskalAlgorithm">
-      <created>1673684808034</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1673684808034</updated>
-    </task>
-    <task id="LOCAL-00032" summary="TopologySort">
-      <created>1673692499722</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1673692499722</updated>
-    </task>
-    <task id="LOCAL-00033" summary="use disjoint solve Problem">
-      <created>1673696807135</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1673696807135</updated>
-    </task>
-    <task id="LOCAL-00034" summary="greedy problem Q1">
-      <created>1673701306223</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1673701306223</updated>
-    </task>
-    <task id="LOCAL-00035" summary="use dfs change parenthesis&#10;Q18">
-      <created>1673787244169</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1673787244169</updated>
-    </task>
-    <task id="LOCAL-00036" summary="use dfs change parenthesis&#10;Q18 review">
-      <created>1673792151581</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1673792151581</updated>
-    </task>
-    <task id="LOCAL-00037" summary="solve greedy problem Q2">
-      <created>1673794635257</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1673794635257</updated>
-    </task>
-    <task id="LOCAL-00038" summary="solve greedy problem Q4">
-      <created>1673797301983</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1673797301983</updated>
-    </task>
-    <task id="LOCAL-00039" summary="solve greedy problem Q5">
-      <created>1673799835553</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1673799835553</updated>
-    </task>
-    <task id="LOCAL-00040" summary="solve greedy problem Q5 reference">
-      <created>1673939964530</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1673939964530</updated>
-    </task>
-    <task id="LOCAL-00041" summary="solve Q6">
-      <created>1673949196448</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1673949196448</updated>
-    </task>
-    <task id="LOCAL-00042" summary="solve Q7 implementation">
-      <created>1673961610984</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1673961610984</updated>
-    </task>
-    <task id="LOCAL-00043" summary="resolve muzzyMukBang">
-      <created>1673967573760</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1673967573760</updated>
-    </task>
-    <task id="LOCAL-00044" summary="implementation Q8">
-      <created>1673970829826</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1673970829826</updated>
-    </task>
-    <task id="LOCAL-00045" summary="implementation Q10">
-      <created>1674123432691</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1674123432691</updated>
-    </task>
-    <task id="LOCAL-00046" summary="implementation Q10">
-      <created>1674123732133</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1674123732133</updated>
-    </task>
-    <task id="LOCAL-00047" summary="implementation Q10">
-      <created>1674124885697</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1674124885697</updated>
-    </task>
-    <task id="LOCAL-00048" summary="implementation Q10">
-      <created>1674136607017</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1674136607017</updated>
-    </task>
-    <task id="LOCAL-00049" summary="implementation Q10&#10;testcase 27번틀림 이유x">
-      <created>1674141201485</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1674141201485</updated>
-    </task>
-    <task id="LOCAL-00050" summary="use bfs solve Q15">
-      <created>1674145733181</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1674145733181</updated>
-    </task>
-    <task id="LOCAL-00051" summary="solve sort problem Q24">
-      <created>1674210151618</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1674210151618</updated>
-    </task>
-    <option name="localTasksCounter" value="52" />
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -460,6 +324,24 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="QuickSort implementation Test" />
+    <MESSAGE value="CountingSort" />
+    <MESSAGE value="객체간의 특정 필드값 비교" />
+    <MESSAGE value="java 자체 라이브러리를 이용해 역순 정렬하기." />
+    <MESSAGE value="practice 3 class 값비교 use Comparable" />
+    <MESSAGE value="Sequential Search" />
+    <MESSAGE value="Binary Search" />
+    <MESSAGE value="Binary Search for문" />
+    <MESSAGE value="Binary Search (recursive)" />
+    <MESSAGE value="부품찾기 practice2(Binary Search)" />
+    <MESSAGE value="부품찾기 practice2(counting sort)" />
+    <MESSAGE value="떡복이 떡 만들기 practice3(Binary Search)" />
+    <MESSAGE value="부품찾기 use HashSet" />
+    <MESSAGE value="Fibonacci_Recursive (but this is not efficient code)" />
+    <MESSAGE value="Fibonacci_Recursive improved version" />
+    <MESSAGE value="dynamic Programming(bottom up) use DP table" />
+    <MESSAGE value="AntWarrior_Practice3(bottom up) use DP table" />
+    <MESSAGE value="Self development use Stream &amp; Collections method" />
     <MESSAGE value="Self development PriorityQueue &amp; Arrays Method &amp; String Method" />
     <MESSAGE value="Dynamic Programming" />
     <MESSAGE value="Dynamic Programming Practice5 &#10;Efficient consist of money" />
@@ -467,25 +349,7 @@
     <MESSAGE value="improved Dijkstra Algorithm" />
     <MESSAGE value="FloydWarshallAlgorithm" />
     <MESSAGE value="DisjointSet" />
-    <MESSAGE value="KruskalAlgorithm" />
-    <MESSAGE value="TopologySort" />
-    <MESSAGE value="use disjoint solve Problem" />
-    <MESSAGE value="greedy problem Q1" />
-    <MESSAGE value="use dfs change parenthesis&#10;Q18" />
-    <MESSAGE value="use dfs change parenthesis&#10;Q18 review" />
-    <MESSAGE value="solve greedy problem Q2" />
-    <MESSAGE value="solve greedy problem Q4" />
-    <MESSAGE value="solve greedy problem Q5" />
-    <MESSAGE value="solve greedy problem Q5 reference" />
-    <MESSAGE value="solve Q6" />
-    <MESSAGE value="solve Q7 implementation" />
-    <MESSAGE value="resolve muzzyMukBang" />
-    <MESSAGE value="implementation Q8" />
-    <MESSAGE value="implementation Q10" />
-    <MESSAGE value="implementation Q10&#10;testcase 27번틀림 이유x" />
-    <MESSAGE value="use bfs solve Q15" />
-    <MESSAGE value="solve sort problem Q24" />
-    <option name="LAST_COMMIT_MESSAGE" value="solve sort problem Q24" />
+    <option name="LAST_COMMIT_MESSAGE" value="DisjointSet" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -494,16 +358,6 @@
           <url>file://$PROJECT_DIR$/src/BinarySearch/BinarySearch.java</url>
           <line>29</line>
           <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/GraphTheory/Practice2_TeamFormation.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/GreedyProblem/Q5.java</url>
-          <line>46</line>
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
