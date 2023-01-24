@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="SortingProblem Q25">
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchProblem/Q27.java" afterDir="false" />
+    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchProblem/Q28.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -162,7 +162,7 @@
       <workItem from="1673515453475" duration="12452000" />
       <workItem from="1673590004156" duration="11571000" />
       <workItem from="1674400336494" duration="3075000" />
-      <workItem from="1674550813544" duration="7783000" />
+      <workItem from="1674550813544" duration="9925000" />
     </task>
     <task id="LOCAL-00010" summary="practice 3 class 값비교 use Comparable">
       <created>1673077484256</created>
@@ -332,7 +332,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674555475992</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="BinarySearch Problem Q27">
+      <created>1674577016618</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1674577016618</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,7 +357,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="practice 3 class 값비교 use Comparable" />
     <MESSAGE value="Sequential Search" />
     <MESSAGE value="Binary Search" />
     <MESSAGE value="Binary Search for문" />
@@ -375,7 +381,8 @@
     <MESSAGE value="Java UsefulThings 2 Self Development" />
     <MESSAGE value="Java UsefulThings 3 Self Development" />
     <MESSAGE value="SortingProblem Q25" />
-    <option name="LAST_COMMIT_MESSAGE" value="SortingProblem Q25" />
+    <MESSAGE value="BinarySearch Problem Q27" />
+    <option name="LAST_COMMIT_MESSAGE" value="BinarySearch Problem Q27" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -387,7 +394,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/BinarySearchProblem/Q27.java</url>
-          <line>34</line>
+          <line>35</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
