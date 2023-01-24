@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="Java UsefulThings 2 Self Development">
-      <change afterPath="$PROJECT_DIR$/src/SelfDevelopment/JavaUsefulThings3.java" afterDir="false" />
+    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="SortingProblem Q25">
+      <change afterPath="$PROJECT_DIR$/src/SortingProblem/Q25.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.BinarySearch">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch.BinarySearch" />
       <module name="JavaCodeTest" />
@@ -161,7 +161,8 @@
       <workItem from="1673417761793" duration="4906000" />
       <workItem from="1673515453475" duration="12452000" />
       <workItem from="1673590004156" duration="11571000" />
-      <workItem from="1674400336494" duration="2937000" />
+      <workItem from="1674400336494" duration="3075000" />
+      <workItem from="1674550813544" duration="3650000" />
     </task>
     <task id="LOCAL-00010" summary="practice 3 class 값비교 use Comparable">
       <created>1673077484256</created>
@@ -317,7 +318,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674309351081</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Java UsefulThings 3 Self Development">
+      <created>1674403477796</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1674403477796</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -335,8 +343,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="객체간의 특정 필드값 비교" />
-    <MESSAGE value="java 자체 라이브러리를 이용해 역순 정렬하기." />
     <MESSAGE value="practice 3 class 값비교 use Comparable" />
     <MESSAGE value="Sequential Search" />
     <MESSAGE value="Binary Search" />
@@ -360,7 +366,9 @@
     <MESSAGE value="DisjointSet" />
     <MESSAGE value="Java UsefulThings" />
     <MESSAGE value="Java UsefulThings 2 Self Development" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java UsefulThings 2 Self Development" />
+    <MESSAGE value="Java UsefulThings 3 Self Development" />
+    <MESSAGE value="SortingProblem Q25" />
+    <option name="LAST_COMMIT_MESSAGE" value="SortingProblem Q25" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
