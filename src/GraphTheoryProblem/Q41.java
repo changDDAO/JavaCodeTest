@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class Q41 {
     //도시랑 도로 여행계획에 속한 도시
@@ -24,6 +25,7 @@ public class Q41 {
     }
 
     public static void main(String[] args) throws IOException {
+        Scanner sc = new Scanner(System.in);
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String s = br.readLine();
         String []input = s.split(" ");
@@ -33,16 +35,12 @@ public class Q41 {
         for(int i=1;i<=n;i++) parent[i]=i;
         
         // n x n 입력받고 1일 때 union 해주기
-        int []connectCheck;
-        for(int i=0;i<n;i++){
-            s = br.readLine();
-            for(int j=0;j<n;j++){
-                input = s.split(" ");
-                connectCheck = Arrays.stream(input).mapToInt(Integer::parseInt).toArray();
-                for(int temp: connectCheck){
-                    if (temp==1) {//두 도시가 연결돼 있다면
-                        unionParent(i+1,j+1);//합치기
-                    }
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                int x = sc.nextInt();
+                if (x == 1) { // 연결된 경우 합집합(Union) 연산 수행
+                    unionParent(i + 1, j + 1);
                 }
             }
         }
@@ -56,8 +54,7 @@ public class Q41 {
                check=false;
        }
 
-       if(check)
-           System.out.println("YES");
+       if(check) System.out.println("YES");
        else System.out.println("NO");
 
     
