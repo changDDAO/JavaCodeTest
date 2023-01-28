@@ -70,8 +70,7 @@ public class Q16 {
 
                 //dfs(2)가 종료됐다면 두번째 인덱스 값이 0으로 초기화 되어있고 for문에 의해 다음 인덱스를 참조하여 0일 때 1로 변경 1 0 1 1 -> 1 0 1 0 1 이런 느낌으로 진행될 것임
             }
-        }
-    }
+        }    }
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

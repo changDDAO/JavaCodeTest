@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="solve ShortestPath use floyd warshall algorithm">
-      <change afterPath="$PROJECT_DIR$/src/ShortestPathProblem/Q38.java" afterDir="false" />
+    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="solve dfs Problem Q16">
+      <change afterPath="$PROJECT_DIR$/src/GraphTheoryProblem/Q42.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DFS_BFS_Problem/Q16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFS_BFS_Problem/Q16.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,6 +129,7 @@
       <workItem from="1674205783666" duration="5154000" />
       <workItem from="1674635306810" duration="2729000" />
       <workItem from="1674719300530" duration="10939000" />
+      <workItem from="1674888836137" duration="3099000" />
     </task>
     <task id="LOCAL-00010" summary="practice 3 class 값비교 use Comparable">
       <created>1673077484256</created>
@@ -506,6 +508,11 @@
           <url>file://$PROJECT_DIR$/src/GreedyProblem/Q5.java</url>
           <line>46</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DFS_BFS_Problem/Q16.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
