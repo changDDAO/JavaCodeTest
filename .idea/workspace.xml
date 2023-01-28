@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="solve dfs Problem Q16">
-      <change afterPath="$PROJECT_DIR$/src/GraphTheoryProblem/Q42.java" afterDir="false" />
+    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="solve Q42 use disjoint">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DFS_BFS_Problem/Q16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFS_BFS_Problem/Q16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GraphTheoryProblem/Q41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GraphTheoryProblem/Q41.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,13 +77,6 @@
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task id="LOCAL-00006" summary="CountingSort">
-      <created>1673011649664</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1673011649664</updated>
-    </task>
     <task id="LOCAL-00007" summary="객체간의 특정 필드값 비교">
       <created>1673012644082</created>
       <option name="number" value="00007" />
@@ -129,7 +121,8 @@
       <workItem from="1674205783666" duration="5154000" />
       <workItem from="1674635306810" duration="2729000" />
       <workItem from="1674719300530" duration="10939000" />
-      <workItem from="1674888836137" duration="3099000" />
+      <workItem from="1674888836137" duration="3223000" />
+      <workItem from="1674909442079" duration="4436000" />
     </task>
     <task id="LOCAL-00010" summary="practice 3 class 값비교 use Comparable">
       <created>1673077484256</created>
@@ -446,7 +439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674729877357</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="solve Q42 use disjoint">
+      <created>1674894157468</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1674894157468</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,7 +464,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Dynamic Programming Practice5 &#10;Efficient consist of money second solve" />
     <MESSAGE value="improved Dijkstra Algorithm" />
     <MESSAGE value="FloydWarshallAlgorithm" />
     <MESSAGE value="DisjointSet" />
@@ -489,7 +488,8 @@
     <MESSAGE value="solve DynamicProgramming problem Q31" />
     <MESSAGE value="solve DynamicProgramming problem Q32" />
     <MESSAGE value="solve ShortestPath use floyd warshall algorithm" />
-    <option name="LAST_COMMIT_MESSAGE" value="solve ShortestPath use floyd warshall algorithm" />
+    <MESSAGE value="solve Q42 use disjoint" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve Q42 use disjoint" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -513,6 +513,11 @@
           <url>file://$PROJECT_DIR$/src/DFS_BFS_Problem/Q16.java</url>
           <line>58</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GraphTheoryProblem/Q41.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
