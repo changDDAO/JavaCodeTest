@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="solve Q42 use disjoint">
+    <list default="true" id="8138ff76-5f73-4c52-bafa-83ee5d693c0b" name="Changes" comment="solve Q41 use disjoint">
+      <change afterPath="$PROJECT_DIR$/src/GreedyProblem/Q1R.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GraphTheoryProblem/Q41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GraphTheoryProblem/Q41.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,13 +77,6 @@
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task id="LOCAL-00007" summary="객체간의 특정 필드값 비교">
-      <created>1673012644082</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1673012644082</updated>
-    </task>
     <task id="LOCAL-00008" summary="java 자체 라이브러리를 이용해 역순 정렬하기.">
       <created>1673013640078</created>
       <option name="number" value="00008" />
@@ -122,7 +115,8 @@
       <workItem from="1674635306810" duration="2729000" />
       <workItem from="1674719300530" duration="10939000" />
       <workItem from="1674888836137" duration="3223000" />
-      <workItem from="1674909442079" duration="4436000" />
+      <workItem from="1674909442079" duration="4765000" />
+      <workItem from="1674967965030" duration="2708000" />
     </task>
     <task id="LOCAL-00010" summary="practice 3 class 값비교 use Comparable">
       <created>1673077484256</created>
@@ -446,7 +440,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674894157468</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="solve Q41 use disjoint">
+      <created>1674914222617</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1674914222617</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,7 +465,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="improved Dijkstra Algorithm" />
     <MESSAGE value="FloydWarshallAlgorithm" />
     <MESSAGE value="DisjointSet" />
     <MESSAGE value="KruskalAlgorithm" />
@@ -489,7 +489,8 @@
     <MESSAGE value="solve DynamicProgramming problem Q32" />
     <MESSAGE value="solve ShortestPath use floyd warshall algorithm" />
     <MESSAGE value="solve Q42 use disjoint" />
-    <option name="LAST_COMMIT_MESSAGE" value="solve Q42 use disjoint" />
+    <MESSAGE value="solve Q41 use disjoint" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve Q41 use disjoint" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
